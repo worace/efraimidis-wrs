@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="Cp1253" standalone="no"?>
+<jardesc>
+    <jar path="WRSDemo/wrs.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/WRSampling/archive.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=WRSampling/src&lt;wrs.stream{StreamSamplerChao.java"/>
+        <file path="/WRSampling/.classpath"/>
+        <file path="/WRSampling/.project"/>
+        <file path="/WRSampling/Release Notes.txt"/>
+        <javaElement handleIdentifier="=WRSampling/src&lt;wrs.stream{StreamSamplerESWithJumps.java"/>
+        <javaElement handleIdentifier="=WRSampling/src&lt;wrs.stream{StreamSamplerChaoWithJumps.java"/>
+        <javaElement handleIdentifier="=WRSampling/src&lt;wrs.stream{ChaoWeightedSetB.java"/>
+        <javaElement handleIdentifier="=WRSampling/src&lt;wrs.demo"/>
+        <javaElement handleIdentifier="=WRSampling/src&lt;wrs.stream{StreamSamplerES.java"/>
+        <javaElement handleIdentifier="=WRSampling/src&lt;wrs.stream{StreamDemo.java"/>
+        <javaElement handleIdentifier="=WRSampling/src&lt;wrs.stream{StreamSampler.java"/>
+        <javaElement handleIdentifier="=WRSampling/src&lt;wrs"/>
+        <javaElement handleIdentifier="=WRSampling/src&lt;wrs.stream{ChaoWeightedItem.java"/>
+    </selectedElements>
+</jardesc>

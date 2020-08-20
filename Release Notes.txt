@@ -1,0 +1,11 @@
+v0.50
+StreamSampler version of ES, ESJ and Chao 
+
+v0.46:
+Comments added to the Exponential Jumps implementation 
+
+v0.45: 
+StreamSampler classes
+
+v0.40 / 25-08-2009:
+Chao's algorithm implemented
